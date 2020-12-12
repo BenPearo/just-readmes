@@ -27,3 +27,29 @@ If you have a background in software development, resist the urge to get specifi
 ### Prioritization
 The most essential part of requirement gathering is prioritizing them. Doing this will give the team much more autonomy and take away decision making pressure down the line.
 I found it best to prioritize the most essential features first so the minimum viable product (MVP) would be finished as soon as possible - giving a strong base to add features on to and keep the ball rolling. This will make sure they have a project to submit!
+
+## Team Meetings
+### Presenting the Requirements
+Once you've compiled and prioritized your project requirements, you must communicate them to the team. During this sesstion, read them the requirements and discuss. You will be answering questions, and likely end up revising some requirements to make them more clear. The team might know out of the gate that some of the features would be impossible to implement in the timeframe, so work with them to adjust the complexity, or potentially remove the feature alltogether.
+
+### Future Meetings
+To keep up with the team's progress, have meetings every two weeks, or following the team's sprint retrospective.
+
+#### Your goals for each meeting are to:
+* Assess progress since the last meeting
+* Discuss difficulties and roadblocks
+* Make adjustments to difficult project requirements so the team can move forward
+* Adjusting requirement priority based on the team's progress
+* Plan on what tasks should be done next
+
+This process can be relatively simple if you and your team agree on the priority of requirements. When adding tasks for the next sprint, you can just take them off the top of the priority list. Confer with the team about what would be a reasonable amount of work to assign over the next sprint.
+
+#### General Tips
+* Don't penalize slow progress, it's the team's mark. Not yours.
+* Be solution-oriented. If progress is slow, discuss adjustments to speed up development
+* Be encouraging, and let them know you're impressed with their work!
+ * Keeping the team motivated creates a better atmosphere during meetings, and keeps the team on the ball
+* A demonstration of the project so far will help you decide if your requirements are being met, or need adjustment
+
+
+
