@@ -1,4 +1,4 @@
-# Product Owner Manual
+# A Product Owner's Guide
 #### By: Ben Pearo
 
 ## Before we begin
