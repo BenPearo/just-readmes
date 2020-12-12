@@ -28,6 +28,9 @@ If you have a background in software development, resist the urge to get specifi
 The most essential part of requirement gathering is prioritizing them. Doing this will give the team much more autonomy and take away decision making pressure down the line.
 I found it best to prioritize the most essential features first so the minimum viable product (MVP) would be finished as soon as possible - giving a strong base to add features on to and keep the ball rolling. This will make sure they have a project to submit!
 
+### Collaborating with Product Owners
+One of the best ways to be a better product owner is to get the input of other product owners. Schedule an opem meeting and strike up a conversation. You can ask for their ideas about the product, their plans to present it their team, and techniques for collecting requirements. Supporting eachother is a great way to secure their success and your own.
+
 ## Team Meetings
 ### Presenting the Requirements
 Once you've compiled and prioritized your project requirements, you must communicate them to the team. During this sesstion, read them the requirements and discuss. You will be answering questions, and likely end up revising some requirements to make them more clear. The team might know out of the gate that some of the features would be impossible to implement in the timeframe, so work with them to adjust the complexity, or potentially remove the feature alltogether.
@@ -50,6 +53,4 @@ This process can be relatively simple if you and your team agree on the priority
 * Be encouraging, and let them know you're impressed with their work!
  * Keeping the team motivated creates a better atmosphere during meetings, and keeps the team on the ball
 * A demonstration of the project so far will help you decide if your requirements are being met, or need adjustment
-
-
-
+* If your schedule allows, let the team know that you're available for questions between meetings. It will help overcome roadblocks instead of stagnating until the next meeting
